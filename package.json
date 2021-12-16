@@ -1,0 +1,19 @@
+{
+  "name": "desafios-javascript-coderhouse",
+  "version": "1.0.0",
+  "description": "Desafios de JavaScript |  Curso de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvelasquezweb/javascript-coderhouse-desafios.git"
+  },
+  "author": "Carlos Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosvelasquezweb/javascript-coderhouse-desafios/issues"
+  },
+  "homepage": "https://github.com/carlosvelasquezweb/javascript-coderhouse-desafios#readme"
+}
